@@ -1,0 +1,15 @@
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Visual Studio Code project file
+.vscode/
+
+# Virtual environment
+.venv/
+venv/
+
+# Python pycache
+__pycache__/
+
+# macOS
+.DS_Store
